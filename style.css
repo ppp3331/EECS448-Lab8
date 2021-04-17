@@ -1,0 +1,35 @@
+body
+{
+    background-color:lightcyan;
+}
+h1
+{
+    background-color:pink;
+    color:white;
+    font-family:arial;
+    font-size: 40;
+}
+p.title
+{
+    font-size: 20pt;
+    font-weight: bold
+}
+a
+{
+    color:black;
+}
+a:hover{
+color:blue;
+}
+body
+{
+    background-image:url(background.jpg);
+    background-size: 20%;
+    background-repeat:repeat;
+    background-attachment:fixed;
+}
+p{
+    color:black;
+    font-family:arial;
+    font-size:15pt
+}
